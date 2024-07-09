@@ -1,1 +1,11 @@
 # HW-2-state-machine-diagram
+## การวางโครงสร้างไฟล์
+- src
+    - main
+        - java
+            - org.example
+                - GBMachine.java
+                - GBMachineSys.java
+                - Main.java
+                - GumBall.java
+                - StateException.java
